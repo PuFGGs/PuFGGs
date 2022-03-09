@@ -57,7 +57,6 @@ I'm Doruk, 18 years old self taught programmer from Turkey.
    We have a hyper casual game labeled **Exploit Rush**.
    
    <br>
-   <br>
    
    <a href="https://open.spotify.com/user/2124big2vornwmxhzqshjiuva">
       <img align="right" alt="Logo" src="https://github-listening-readme.vercel.app/api/spotify" width="300px"/>
