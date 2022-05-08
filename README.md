@@ -9,7 +9,7 @@ namespace People.Model.Person
     {
         Name = "Doruk";
         From = Country.Turkey;
-        Age = 17;
+        Age = 18;
         Pronouns = { "he", "him" };
         Knowledge = new List<IProgrammingLanguage>
         {
